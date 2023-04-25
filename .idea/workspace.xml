@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1759f90-17ef-407e-9c19-eed6aff93e60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 Algorithmic Toolbox/Homeworks/Starter files/week1_programming_challenges/week1_programming_challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 Algorithmic Toolbox/Homeworks/Starter files/week2_algorithmic_warmup/week2_algorithmic_warmup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 Algorithmic Toolbox/Homeworks/Starter files/week3_greedy_algorithms/week3_greedy_algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 Algorithmic Toolbox/Homeworks/Starter files/week4_divide_and_conquer/week4_divide_and_conquer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 Algorithmic Toolbox/Homeworks/Starter files/week5_dynamic_programming1/week5_dynamic_programming1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 Algorithmic Toolbox/Homeworks/Starter files/week6_dynamic_programming2/week6_dynamic_programming2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Data Structures/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Data Structures/max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/DataStructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/ArrayHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/BinaryTreeTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmsUCSD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/check_brackets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/01.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/02.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/03.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/04.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/05.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/06.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/07.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/08.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/09.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/10.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/11.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/12.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/13.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/14.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/15.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/16.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/17.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/18.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/19.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/20.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/21.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/22.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/23.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/24.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/25.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/26.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/27.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/28.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/29.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/30.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/31.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/32.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/33.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/34.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/35.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/36.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/37.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/38.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/39.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/40.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/41.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/42.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/43.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/44.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/45.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/46.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/47.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/48.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/49.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/50.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/51.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/52.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/53.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/1_brackets_in_code/tests/54.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/get_tree_height.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/01.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/02.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/03.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/04.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/05.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/06.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/07.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/08.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/09.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/10.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/11.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/12.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/13.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/14.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/15.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/16.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/17.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/18.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/19.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/20.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/21.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/22.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/23.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tests/24.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/2_tree_height/tree_height.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/process_packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/01.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/02.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/03.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/04.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/05.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/06.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/07.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/08.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/09.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/10.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/11.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/12.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/13.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/14.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/15.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/16.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/17.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/18.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/19.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/20.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/21.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/3_network_simulation/tests/22.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/4_stack_with_max/stack_with_max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/5_max_sliding_window/max_sliding_window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 1/week1_basic_data_structures.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/1_make_heap/build_heap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/1_make_heap/tests/04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/1_make_heap/tests/04.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/2_job_queue/job_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/2_job_queue/tests/02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/2_job_queue/tests/02.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/2_job_queue/tests/08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/2_job_queue/tests/08.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/3_merging_tables/merging_tables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/3_merging_tables/tests/116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/3_merging_tables/tests/116.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 3/week3_priority_queues_and_disjoint_sets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/1_phone_book/phone_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/2_hash_chains/hash_chains.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/2_hash_chains/tests/06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/2_hash_chains/tests/06.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/3_hash_substring/hash_substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/3_hash_substring/tests/06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/3_hash_substring/tests/06.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/4_substring_equality/substring_equality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/5_longest_common_substring/common_substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/6_matching_with_mismatches/matching_with_mismatches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 4/week4_hash_tables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/1_tree_traversals/tests/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/1_tree_traversals/tests/21.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/1_tree_traversals/tree-orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/2_is_bst/is_bst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/3_is_bst_advanced/is_bst_hard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/set_range_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/01.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/04.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/05.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/20.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/36.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/4_set_range_sum/tests/83.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/5_rope/rope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Homeworks/Week 6/week6_binary_search_trees.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 1/1_arrays_and_lists.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 1/2_stacks_and_queues.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 1/3_trees.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 2/1_dynamic_arrays_and_amoritezed_analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 3/1_priority_queues_1_intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 3/1_priority_queues_2_heaps.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 3/2_disjoint_sets_1_naive.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 3/2_disjoint_sets_2_efficient.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 4/1_hash_tables_1_intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 4/2_hash_tables_2_hashfunctions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 4/3_hash_tables_2_proof_universal_family.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 4/4_hash_tables_3_search_substring.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 4/5_hash_tables_4_distributed_hash_tables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/1_binary_search_trees_1_intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/2_binary_search_trees_2_binary_search_trees.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/3_binary_search_trees_3_basic_ops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/4_binary_search_trees_4_balance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/5_binary_search_trees_5_avl.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/6_binary_search_trees_6_avl2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 5/7_binary_search_trees_7_split_merge.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 6/1_binary_search_trees_8_applications.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Data Structures/Lectures/Week 6/2_binary_search_trees_9_splay.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OizTKjLZHiLGoZjGXmihUuIL7B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/algorithmsUCSD/DataStructures/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1759f90-17ef-407e-9c19-eed6aff93e60" name="Changes" comment="" />
+      <created>1682058196436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682058196436</updated>
+      <workItem from="1682058197789" duration="1883000" />
+      <workItem from="1682254215059" duration="30000" />
+      <workItem from="1682386273225" duration="2505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructures/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructures/src/BinaryTreeTraversal.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
